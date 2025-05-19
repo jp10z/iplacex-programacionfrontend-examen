@@ -12,7 +12,7 @@ import { BNavbarNav, BNavbar, BNavbarBrand, BNavbarToggle, BCollapse, BNavItem, 
             <BNavItem to="/formulario-de-registro" exact exact-active-class="active">Formulario de registro</BNavItem>
           </BNavbarNav>
           <BNavForm class="d-flex ms-auto">
-            <BFormInput class="me-2" placeholder="Search" />
+            <BFormInput class="me-2" placeholder="Buscar" />
             <BButton type="submit" variant="outline-success">Busqueda</BButton>
           </BNavForm>
         </BCollapse>
